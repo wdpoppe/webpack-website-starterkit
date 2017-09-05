@@ -1,3 +1,3 @@
 # webpack-website-starterkit
 
-descriptions follows soon.
+description follows soon.
