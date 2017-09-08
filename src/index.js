@@ -1,7 +1,9 @@
 import _ from 'lodash';
-import './style.css';
 import Max from './max.jpg';
 import printMe from './print.js';
+
+require('../src/app.scss');
+
 
 function component() {
   var element = document.createElement('div');
